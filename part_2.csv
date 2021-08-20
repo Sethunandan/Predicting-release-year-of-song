@@ -1,0 +1,8 @@
+Name,Value
+learning_rate,0.09
+num_layers,1
+num_units,128
+regulariser,0.0001
+max_epochs,90
+batch_size,128
+feature_scaling,yes
